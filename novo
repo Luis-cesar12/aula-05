@@ -1,0 +1,21 @@
+void main(){
+    var nome = "Luis ";
+    print( nome );
+    print( nome );
+    print( nome );
+    print( nome );
+    print( nome );
+    
+    var nome2 = "Luis ";
+      for( int i=0; i <= 10; i++ ){
+        print( nome2 );
+        
+        
+        
+        
+        
+      }
+    
+  }
+  
+  
